@@ -1,8 +1,5 @@
-composer require laravel/passport<br/>
-
-php artisan migrate<br/>
-
-php artisan passport:install<br/>
+To run the backend with docker run the following command:
+- docker-compose up --build
 
 
 
